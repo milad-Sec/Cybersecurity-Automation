@@ -1,2 +1,2 @@
-# cybersecurity-automation
-cybersecurity, automation, devsecops
+# Cybersecurity-Automation
+Cybersecurity, Automation, DevSecOps
