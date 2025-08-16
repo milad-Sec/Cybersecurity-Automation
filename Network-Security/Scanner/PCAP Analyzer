@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 Wireshark Automation Script - PCAP Analyzer
-Author: Your Name
+Author: Milad
 Description:
     This script uses tshark (Wireshark CLI) to extract key insights
-    from a PCAP file and generate a simple text report.
+    from a PCAP file and generate a simple text report. (like IPs, protocols, top talkers, suspicious ports)
     
 Requirements:
     - Wireshark/tshark installed
